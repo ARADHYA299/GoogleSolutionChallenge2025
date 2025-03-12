@@ -1,20 +1,20 @@
 # GoogleSolutionChallenge2025
 
-🚀 Financial Assistant Chatbot is an AI-powered web application designed to educate users with either beginner or expert level knowledge on financial markets, investment strategies, and market dynamics using a fabulous model of Gemini-2.0-flash .
+🚀 Financial Assistant Chatbot is an AI-powered web application designed to educate users with either beginner or expert level knowledge on financial markets, investment strategies, and market dynamics using a fabulous model of Mistral-7B
 
 🌟 Features
 
 📈 Interactive financial education
 
-🤖 AI-powered chatbot using Gemini API
+🤖 AI-powered chatbot using Mistral-7B
 
-🎨 Modern UI with Next.js & Tailwind CSS
+🎨 Modern UI with Gradio and HuggingFace Spaces 
 
 ⚡ Fast & scalable architecture
 
 🛠 Tech Stack
 Platform : Google Colab
 
-AI Model: Gemini-2.0.Flash (Google Gemini API)
+AI Model: Mistral-7B(  HF TRANSFORMER PIPELINES )
 
-Deployment: Google IDX / Vercel
+Deployment: Vercel
